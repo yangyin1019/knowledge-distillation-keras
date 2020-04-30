@@ -15,6 +15,15 @@ Keras implementation of Hinton's knowledge distillation (KD), a way of transferr
 | SqueezeNet v1.1 | 67.2 | 86.5 | 1.555 |
 | SqueezeNet v1.1 with KD | 68.9 | 87.4 | 1.297 |
 
+##Step
+···wget http://www.vision.caltech.edu/Image_Datasets/Caltech256/256_ObjectCategories.tar
+ cd train_val_split
+ run script
+ cd utils
+ run script
+ 
+
+
 
 ## Implementation details
 * I use pretrained on ImageNet models.
