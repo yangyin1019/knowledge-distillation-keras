@@ -17,7 +17,8 @@ Keras implementation of Hinton's knowledge distillation (KD), a way of transferr
 
 
 ## Step
-```wget http://www.vision.caltech.edu/Image_Datasets/Caltech256/256_ObjectCategories.tar
+```
+wget http://www.vision.caltech.edu/Image_Datasets/Caltech256/256_ObjectCategories.tar
  cd train_val_split
  run script
  cd utils
